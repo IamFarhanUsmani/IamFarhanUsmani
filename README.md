@@ -11,7 +11,7 @@ I'm Farhan, a self-taught Data Analyst and SQL enthusiast from India.
 - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 
 ### 🔭 Projects 🔭
-
+- [SQL Case Studies](https://github.com/IamFarhanUsmani/SQL-Case-Studies)
 <!--
 **IamFarhanUsmani/IamFarhanUsmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
