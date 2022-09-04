@@ -12,6 +12,7 @@ I'm Farhan, a self-taught Data Analyst and SQL enthusiast from India.
 
 ### 🔭 Projects 🔭
 - [SQL Case Studies](https://github.com/IamFarhanUsmani/SQL-Case-Studies)
+- [Python Projects](https://github.com/IamFarhanUsmani/Python-Projects)
 <!--
 **IamFarhanUsmani/IamFarhanUsmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
