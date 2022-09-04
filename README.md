@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Farhan, a self-taught Data Analyst and SQL enthusiast from India.
+I'm Farhan, a Data Analyst and SQL enthusiast from India.
 
 ### ✨ About me in 30 Secs ✨
 - 👦🏼Business Analyst aspiring to becone Data Scientist
