@@ -14,7 +14,7 @@ I'm Farhan, a Data Analyst and SQL enthusiast from India.
 - [SQL Case Studies](https://github.com/IamFarhanUsmani/SQL-Case-Studies)
 - [Python Projects](https://github.com/IamFarhanUsmani/Python-Projects)
 - [Tableau Projects]
-- [PowerBI Projects]
+- [PowerBI Projects](https://github.com/IamFarhanUsmani/EMPLOYEE-PRESENCE-INSIGHT-HR-DASHBOARD)
 <!--
 **IamFarhanUsmani/IamFarhanUsmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
